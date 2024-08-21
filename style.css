@@ -39,7 +39,7 @@ h1{
     flex-direction: column;
     justify-content: space-between;
     padding: 10px 0;
-    height: 25vh;
+    height: 27vh;
 
 }
 .containerForm input{
@@ -59,6 +59,16 @@ h1{
     color: white;
     background: rgb(0, 162, 255);
     border: 2px solid rgb(0, 110, 255);
+}
+
+.containerForm button:hover{
+    background: rgb(0, 137, 216);
+    border: 2px solid rgb(0, 84, 194);
+}
+
+.containerForm button:active{
+    background: rgb(218, 178, 0);
+    border: 2px solid rgb(194, 126, 0);
 }
 .resultado{
     text-align: center;
