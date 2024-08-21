@@ -41,7 +41,7 @@ Você pode visualizar o projeto online [aqui](https://conversomoedas-duarte.netl
 
 Veja abaixo uma captura de tela do projeto em execução:
 
-<img src="https://github.com/asd/privategithubrepo/images/output/video1.gif" width="600">
+<img src="https://raw.githubusercontent.com/duartetech/conversorDeMoedas/main/capturatela.gif" width="600">
 
 ## Tecnologias Utilizadas
 
