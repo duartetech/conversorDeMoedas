@@ -41,7 +41,7 @@ Você pode visualizar o projeto online [aqui](https://conversomoedas-duarte.netl
 
 Veja abaixo uma captura de tela do projeto em execução:
 
-![Captura de Tela](/capturatela.gif)
+<img src="https://github.com/asd/privategithubrepo/images/output/video1.gif" width="600">
 
 ## Tecnologias Utilizadas
 
